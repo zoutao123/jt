@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jtcommon:war">
+    <output-path>$PROJECT_DIR$/jtcommon/target</output-path>
+    <root id="archive" name="jt-common-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jtcommon:war exploded" />
+      <element id="artifact" artifact-name="jtmanage:war exploded" />
+      <element id="artifact" artifact-name="jtmanage:war" />
+    </root>
+  </artifact>
+</component>

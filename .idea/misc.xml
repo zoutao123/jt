@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jtcommon" />
+    <file type="web" url="file://$PROJECT_DIR$/jtmanage" />
+    <file type="web" url="file://$PROJECT_DIR$/jtweb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jt/pom.xml" />
+        <option value="$PROJECT_DIR$/jtcommon/pom.xml" />
+        <option value="$PROJECT_DIR$/jtmanage/pom.xml" />
+        <option value="$PROJECT_DIR$/jtweb/pom.xml" />
+        <option value="$PROJECT_DIR$/jtsso/pom.xml" />
+        <option value="$PROJECT_DIR$/jtcart/pom.xml" />
+        <option value="$PROJECT_DIR$/jtorder/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
